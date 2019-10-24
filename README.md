@@ -1,2 +1,2 @@
 # Webpage-Demo
-Practice Webpages
+A repository with some practice webpages I developed.
